@@ -76,6 +76,7 @@ body {
 }
 
 button {
+    border: 3px solid var(--borderline-fill);
     cursor: pointer;
     background-color: var(--borderline-fill);
     color: #edf5e1;
